@@ -1,0 +1,12 @@
+{
+    "name": "administrator/blog-mvc",
+    "authors": [
+        {
+            "name": "thuongmh91",
+            "email": "thuongmaihuy91@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk": "~5.0"
+    }
+}
